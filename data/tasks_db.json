@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Village Aid",
+    "type": "support",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Mystic Portal",
+    "type": "magic",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Orcish Duel",
+    "type": "combat",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Holy Vigil",
+    "type": "holy",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Crystal Focus",
+    "type": "magic",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Lost Scout",
+    "type": "support",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Bandit Ambush",
+    "type": "combat",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Sacred Oath",
+    "type": "holy",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Spell Cascade",
+    "type": "magic",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Skeleton Raid",
+    "type": "combat",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Supply Caravan",
+    "type": "support",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Divine Shield",
+    "type": "holy",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Ethereal Barrier",
+    "type": "magic",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Desert Clash",
+    "type": "combat",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Blessed Fountain",
+    "type": "holy",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Defensive Line",
+    "type": "support",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Phantom Veil",
+    "type": "magic",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Mountain Siege",
+    "type": "combat",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Light Ceremony",
+    "type": "holy",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Reinforce Gate",
+    "type": "support",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Mana Storm",
+    "type": "magic",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Cave Beasts",
+    "type": "combat",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Angel's Mercy",
+    "type": "holy",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Runic Puzzle",
+    "type": "magic",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Collapsed Tunnel",
+    "type": "support",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Forest Battle",
+    "type": "combat",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Faith Challenge",
+    "type": "holy",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Wounded Ally",
+    "type": "support",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Arcane Seal",
+    "type": "magic",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Blade Trial",
+    "type": "combat",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Sanctum Trial",
+    "type": "holy",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Enchanted Maze",
+    "type": "magic",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Morale Rally",
+    "type": "support",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Spirit Cleansing",
+    "type": "holy",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Bloody Arena",
+    "type": "combat",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Arcane Rift",
+    "type": "magic",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Campfire Watch",
+    "type": "support",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Demon Ward",
+    "type": "holy",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Troll Hunt",
+    "type": "combat",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Elemental Surge",
+    "type": "magic",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Healing Duty",
+    "type": "support",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Goblin Swarm",
+    "type": "combat",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Cursed Shrine",
+    "type": "holy",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Shadow Weave",
+    "type": "magic",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Bridge Repair",
+    "type": "support",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Dragon Strike",
+    "type": "combat",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Lost Relic",
+    "type": "holy",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Void Echo",
+    "type": "magic",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Rescue Mission",
+    "type": "support",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Wolf Pack",
+    "type": "combat",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Prayer Circle",
+    "type": "holy",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Scout Patrol",
+    "type": "support",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Astral Prison",
+    "type": "magic",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Pirate Assault",
+    "type": "combat",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Temple Guardian",
+    "type": "holy",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Time Fracture",
+    "type": "magic",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Forge Weapons",
+    "type": "support",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Radiant Dawn",
+    "type": "holy",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Undead Legion",
+    "type": "combat",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Chaos Orb",
+    "type": "magic",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Map Territory",
+    "type": "support",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Celestial Gate",
+    "type": "holy",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Barbarian Charge",
+    "type": "combat",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Dream Walker",
+    "type": "magic",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Build Shelter",
+    "type": "support",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Assassin Strike",
+    "type": "combat",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Purifying Flame",
+    "type": "holy",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Frost Binding",
+    "type": "magic",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Train Recruits",
+    "type": "support",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Wyvern Attack",
+    "type": "combat",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Sacred Ground",
+    "type": "holy",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Lightning Ward",
+    "type": "magic",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Siege Equipment",
+    "type": "support",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Mercenary Brawl",
+    "type": "combat",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Martyr's Path",
+    "type": "holy",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Food Supplies",
+    "type": "support",
+    "difficulty": 12,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Mirror Illusion",
+    "type": "magic",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Spider Nest",
+    "type": "combat",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Divine Justice",
+    "type": "holy",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Soul Prism",
+    "type": "magic",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Medical Tent",
+    "type": "support",
+    "difficulty": 13,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Heaven's Wrath",
+    "type": "holy",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Knight Tournament",
+    "type": "combat",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Starfall Ritual",
+    "type": "magic",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "War Council",
+    "type": "support",
+    "difficulty": 14,
+    "success_damage": 2,
+    "fail_damage": 5
+  },
+  {
+    "name": "Saintly Vision",
+    "type": "holy",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Harpy Assault",
+    "type": "combat",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Twilight Sphere",
+    "type": "magic",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Messenger Run",
+    "type": "support",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Ogre Rampage",
+    "type": "combat",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Redemption Arc",
+    "type": "holy",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Mystic Convergence",
+    "type": "magic",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Tower Guard",
+    "type": "support",
+    "difficulty": 16,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Demon Invasion",
+    "type": "combat",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Miracle Touch",
+    "type": "holy",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Rune Mastery",
+    "type": "magic",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Evacuation Plan",
+    "type": "support",
+    "difficulty": 17,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Gladiator Pit",
+    "type": "combat",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Seraph's Call",
+    "type": "holy",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  },
+  {
+    "name": "Armor Maintenance",
+    "type": "support",
+    "difficulty": 15,
+    "success_damage": 3,
+    "fail_damage": 7
+  }
+]
